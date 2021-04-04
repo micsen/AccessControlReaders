@@ -1,1 +1,3 @@
-#So aperio has a big customization on their readers therefor alot of the models will have both flavors listed in the documentation
+# 
+
+Online wireless Communication over zigbee with a aes128 key for each installation (if personalized) some installations are running on factory default keys used for provisioning
