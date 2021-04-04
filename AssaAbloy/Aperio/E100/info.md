@@ -17,3 +17,4 @@ Implants tested:
   Mifare Online
   xNT on a door configured for mifare classic NUID with great success
 
+![e100 opened with xNT](https://github.com/micsen/AccessControlReaders/blob/4afbfad419e94c0c367bfb745e2680f572f4f7b5/AssaAbloy/Aperio/E100/e100%20Unlock%20with%20xNT%20implant.mp4?raw=true)
